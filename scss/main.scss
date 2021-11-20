@@ -166,6 +166,16 @@ body {
             color: $primaryColor;
             font-weight: 400;
         }
+
+        .desk {
+            p {
+                // margin-left: 0.10em;
+                color: $secondaryColor;
+                font-size: 1rem;
+                margin-top: 1em;
+            }
+        }
+
     @media screen and (max-width: 992px) {
         margin-top: 5em;
         // text-align: center;
